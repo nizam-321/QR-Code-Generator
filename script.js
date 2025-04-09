@@ -3,7 +3,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const qrInput = document.getElementById("qrInput");
     const generateBtn = document.getElementById("generateBtn");
 
-   
     const qr = new QRious({
         element: document.createElement("canvas"), // Dynamically create a canvas element for the QR code
         value: "", // Initial value of the QR code (empty)
@@ -55,3 +54,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
     });
 });
+
+// This is a test comment to verify changes
