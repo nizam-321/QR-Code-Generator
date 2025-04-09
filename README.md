@@ -24,6 +24,7 @@ The goal of this project was to practice:
 - User enters a URL or any text.
 - On clicking the **"Generate QR"** button, a QR code appears below.
 - You can scan the QR code using your mobile to view the data.
+- You can download the QR code.
 
 ---
 
@@ -32,7 +33,7 @@ The goal of this project was to practice:
 - HTML
 - CSS
 - JavaScript
-- [QR Code API / Library] (Mention here if you're using something like `qrcode.js` or a free API)
+- [QR Code API / Library]
 
 ---
 
