@@ -6,7 +6,7 @@ This is a simple **QR Code Generator** web app that I built to practice JavaScri
 ---
 ## 🔗 Live Demo
 
-👉 [Click here to see it live](https://nizam-321.github.io/QR-Code-Generator-JavaScript-Practice-Project/)
+👉 [Click here to see it live](https://qr-code-generator-beta-tawny.vercel.app/)
 
 ## 🎯 Project Goal
 
